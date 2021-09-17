@@ -9,7 +9,6 @@ export default function Home() {
     <>
  <Head>
    <title>Ninja List | Home </title>
-   <meta name="keywors" content="ninjas"> </meta>
  </Head>
       <h1 className={styles.title}>home page</h1>
       <p className={styles.text}>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vitae eius eligendi corrupti, sapiente culpa facilis ipsum, quia blanditiis animi rerum accusamus fuga delectus numquam temporibus. Mollitia odio nemo itaque voluptas!</p>
